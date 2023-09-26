@@ -1,0 +1,6 @@
+﻿  Def_C++.cpp
+D:\LearningC++\Home\Def_C++\Def_C++.cpp(98,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LearningC++\Home\Def_C++\Def_C++.cpp(103,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LearningC++\Home\Def_C++\Def_C++.cpp(45): warning C4715: 'Pow': not all control paths return a value
+D:\LearningC++\Home\Def_C++\Def_C++.cpp(90): warning C4715: 'SQRT': not all control paths return a value
+  Def_C++.vcxproj -> D:\LearningC++\Home\x64\Debug\Def_C++.exe

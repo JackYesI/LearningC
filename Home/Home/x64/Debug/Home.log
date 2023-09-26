@@ -1,0 +1,3 @@
+﻿  Home.cpp
+D:\LearningC++\Home\Home\Home.cpp(45,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Home.vcxproj -> D:\LearningC++\Home\x64\Debug\Home.exe
