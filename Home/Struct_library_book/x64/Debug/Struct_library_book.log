@@ -1,0 +1,4 @@
+﻿  library.cpp
+D:\Home_c++\LearningC\Home\Struct_library_book\library.cpp(45,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Home_c++\LearningC\Home\Struct_library_book\library.cpp(56,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Struct_library_book.vcxproj -> D:\Home_c++\LearningC\Home\x64\Debug\Struct_library_book.exe

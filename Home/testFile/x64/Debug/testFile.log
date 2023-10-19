@@ -1,0 +1,15 @@
+﻿  testFile.cpp
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(264,9): warning C4101: 'value': unreferenced local variable
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(471,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(482,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(493,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(460,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(670,37): message : see reference to function template instantiation 'int findByName<Book>(T *,const int &,char *,int)' being compiled
+          with
+          [
+              T=Book
+          ]
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(108): warning C4715: 'ReadBook': not all control paths return a value
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(127): warning C4715: 'ReadMagazine': not all control paths return a value
+D:\Home_c++\LearningC\Home\testFile\testFile.cpp(146): warning C4715: 'ReadNewspaper': not all control paths return a value
+  testFile.vcxproj -> D:\Home_c++\LearningC\Home\x64\Debug\testFile.exe
